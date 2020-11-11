@@ -1,0 +1,4 @@
+library(visualize)
+zvalue=(152-150)/(2/sqrt(100))
+zvalue
+visualize.norm(stat=zvalue,section="upper")
